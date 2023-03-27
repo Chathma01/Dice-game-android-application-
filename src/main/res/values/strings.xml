@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DICE ROLLER</string>
+    <string name="newGame_button">NEW GAME</string>
+    <string name="about_button">ABOUT</string>
+    <string name="about_details">Name : Chathma Palliya Guruge\nStudent ID : 20210567\n\n I confirm that I understand what plagiarism is and have read and understood the section on Assessment Offences in the Essential Information for Students. The work that I have submitted is entirely my own. Any work from other authors is duly referenced and acknowledged.</string>
+    <string name="throw_button">THROW</string>
+    <string name="score_button">SCORE</string>
+    <string name="player_text">PLAYER</string>
+    <string name="computer_text">COMPUTER</string>
+    <string name="score_text">SCORE</string>
+    <string name="wins_text">WINS</string>
+    <string name="h_text">H : </string>
+    <string name="c_text">C : </string>
+    <string name="player_score_text">0</string>
+    <string name="close_button">CLOSE</string>
+    <string name="lost_text">YOU LOST!</string>
+
+</resources>
